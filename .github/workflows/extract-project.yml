@@ -1,0 +1,37 @@
+name: Extrair projeto External Flow
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract-project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Extrair fontes para a raiz e fazer commit
+        shell: bash
+        run: |
+          set -euo pipefail
+          ARCHIVE="ExternalFlow-GitHub-Project.zip"
+          test -f "<LaTex>ARCHIVE" || { echo "Não encontrei</LaTex>ARCHIVE na raiz." >&2; exit 1; }
+
+          TEMP_DIR="<LaTex>RUNNER_TEMP/external-flow-unpack"           mkdir -p "</LaTex>TEMP_DIR"
+          unzip -q "<LaTex>ARCHIVE" -d "</LaTex>TEMP_DIR"
+          SOURCE_DIR="<LaTex>TEMP_DIR/ExternalFlow"           test -f "</LaTex>SOURCE_DIR/ThreeOneOSFive.xcodeproj/project.pbxproj"
+          test -f "<LaTex>SOURCE_DIR/.github/workflows/ios-build.yml"            cp -a "</LaTex>SOURCE_DIR/." .
+          rm -f "$ARCHIVE"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração para gravar."
+            exit 0
+          fi
+          git commit -m "Extract External Flow project from ZIP"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
