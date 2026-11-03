@@ -140,6 +140,12 @@
       "skillPath": "skills/style-sampling/SKILL.md",
       "computedHash": "a67b35b31fc5505d5d5bc7657152af848d3d3335d038deb93ca433056d97285e"
     },
+    "swiftui-liquid-glass": {
+      "source": "dimillian/skills",
+      "sourceType": "github",
+      "skillPath": "swiftui-liquid-glass/SKILL.md",
+      "computedHash": "e4d3634171bc6caa7cc8d15f58cd2fb848dab4744493edc56ec14f4b2c8521a0"
+    },
     "ui-taste": {
       "source": "uizze.sh",
       "sourceUrl": "https://uizze.sh/",
