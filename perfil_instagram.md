@@ -6,23 +6,13 @@
 - **Categoria:** Empresa de tecnologia da informação (exibir no perfil), botão WhatsApp ativo
 - **Foto:** logo Flow com `</>` (versão do Gustavo)
 - **Destaques:** só quando tiver serviços entregues pra mostrar
-- **Bio (139 caracteres, sem emojis):**
+- **Bio final (136 caracteres) ✅:**
 ```
-Criação de sites, sistemas e aplicativos para empresas.
-Também fazemos bots, edição de vídeo e design.
-Peça seu orçamento pelo link abaixo.
+Sua empresa merece mais do que um link de WhatsApp na bio.
+A gente cria a tecnologia que faz o seu negócio vender mais.
+↓ Conheça a Flow
 ```
-- **Alternativas:**
-```
-Criamos sites, sistemas e aplicativos para o seu negócio.
-Também fazemos bots, vídeos e design.
-Orçamento sem compromisso no link abaixo.
-```
-```
-Criamos sites, sistemas e aplicativos sob medida.
-Orçamento sem compromisso no link abaixo.
-```
-- **Link:** `https://wa.me/55SEUNUMERO?text=Oi!%20Vi%20o%20perfil%20da%20Flow%20e%20quero%20um%20or%C3%A7amento`
+- **Link:** site oficial da Flow (a fazer). O contato fica no site.
 
 ## Serviços (pra usar no destaque "Dúvidas" e nas conversas)
 - Sites, landing pages e lojas virtuais
