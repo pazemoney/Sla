@@ -6,11 +6,11 @@
 - **Categoria:** Empresa de tecnologia da informação (exibir no perfil), botão WhatsApp ativo
 - **Foto:** logo Flow com `</>` (versão do Gustavo)
 - **Destaques:** só quando tiver serviços entregues pra mostrar
-- **Bio final (136 caracteres) ✅:**
+- **Bio final ✅:**
 ```
-Sua empresa merece mais do que um link de WhatsApp na bio.
-A gente cria a tecnologia que faz o seu negócio vender mais.
-↓ Conheça a Flow
+🫵 Sua empresa merece mais do que um link de WhatsApp na bio.
+🚀 A gente cria a tecnologia que faz o seu negócio vender mais.
+↓ Conheça a Flow!
 ```
 - **Link:** site oficial da Flow (a fazer). O contato fica no site.
 
