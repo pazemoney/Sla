@@ -1,0 +1,502 @@
+{
+ "repos": {
+  "AThevon__genjutsu": {
+   "url": "https://github.com/AThevon/genjutsu.git",
+   "commit": "ac9ca74156946be8e449f0d6acc8043a105a38f3"
+  },
+  "Moh4696__open-3d-skills": {
+   "url": "https://github.com/Moh4696/open-3d-skills.git",
+   "commit": "7b04ab491d5bcbd920cbffbf06ebae3f9429d8e3"
+  },
+  "agiwhitelist__auteur": {
+   "url": "https://github.com/agiwhitelist/auteur.git",
+   "commit": "9bca227df9877e60dc45d49783c8cbd885eccd9b"
+  },
+  "akseolabs-seo__cinematic-ui": {
+   "url": "https://github.com/akseolabs-seo/cinematic-ui.git",
+   "commit": "37651d0f59e83a5236e8773aa915cce93f2e7fc3"
+  },
+  "alanvaa06__award-craft": {
+   "url": "https://github.com/alanvaa06/award-craft.git",
+   "commit": "01ff15f041952fa7d2db9f17a6c39357a786165c"
+  },
+  "anthropics-skills": {
+   "url": "https://github.com/anthropics/skills.git",
+   "commit": "ca45fc496a3436251f191354091d557da31c15b5"
+  },
+  "cesartevisual__threejs-skills": {
+   "url": "https://github.com/cesartevisual/threejs-skills.git",
+   "commit": "84f9bcb4bea1f7a28d57fe7f0af78f7f9c3dc467"
+  },
+  "dembrandt__dembrandt-skills": {
+   "url": "https://github.com/dembrandt/dembrandt-skills.git",
+   "commit": "8f78f13f74a2356326d0c3c21bc63e5624e6a457"
+  },
+  "emalorenzo__three-agent-skills": {
+   "url": "https://github.com/emalorenzo/three-agent-skills.git",
+   "commit": "f950f95ae3b13581546e6d6d8b2f88a08eb3e577"
+  },
+  "emilkowalski__skill": {
+   "url": "https://github.com/emilkowalski/skill.git",
+   "commit": "f1090bec277140d02ed202440185ad9d02ac1490"
+  },
+  "erenthedeveloper0__form-and-force": {
+   "url": "https://github.com/erenthedeveloper0/form-and-force.git",
+   "commit": "5bcd2bba12b3792b2ff0b44fb5c42f85345f2ba0"
+  },
+  "gokayfem__shader-skills": {
+   "url": "https://github.com/gokayfem/shader-skills.git",
+   "commit": "a56e7738d3f22698e795f036b4919f0734ab621d"
+  },
+  "greensock__gsap-skills": {
+   "url": "https://github.com/greensock/gsap-skills.git",
+   "commit": "aed9cfd3277740755f6bfc1155c7aa645403b760"
+  },
+  "harshavarma02__zero-jank-scroll-agent-skill": {
+   "url": "https://github.com/harshavarma02/zero-jank-scroll-agent-skill.git",
+   "commit": "6ffc62a844a3d5146d63cdce1a782114c30abed8"
+  },
+  "juliobsz__skills": {
+   "url": "https://github.com/juliobsz/skills.git",
+   "commit": "add880bd6ec9f5592a1482846fc0dd282c9161bc"
+  },
+  "keysjoao__laws-of-ux-skills": {
+   "url": "https://github.com/keysjoao/laws-of-ux-skills.git",
+   "commit": "66f5e5602c8444b123e8b0d287ef9947ef295edc"
+  },
+  "ma68foysal__claude-scrollytelling-skill": {
+   "url": "https://github.com/ma68foysal/claude-scrollytelling-skill.git",
+   "commit": "e12fba8c335ae599101007e40a09df0bcfa2fce6"
+  },
+  "meodai__skill.color-expert": {
+   "url": "https://github.com/meodai/skill.color-expert.git",
+   "commit": "5bf7c7704d56bccc6aeea38c36bcf449abe56a6c"
+  },
+  "nateherkai__scroll-craft": {
+   "url": "https://github.com/nateherkai/scroll-craft.git",
+   "commit": "75d81f74e83692add18cd7a8a8e078b8a887a579"
+  },
+  "nimajafari__lighthouse-skill": {
+   "url": "https://github.com/nimajafari/lighthouse-skill.git",
+   "commit": "b5bcafbaadd9441afa8444d9b10f7cf82e9d0442"
+  },
+  "skinnye__3d-web-pack": {
+   "url": "https://github.com/skinnye/3d-web-pack.git",
+   "commit": "cabd2213daf6cbcc4a6d371d20dfdba0329cee49"
+  },
+  "vercel-labs__agent-skills": {
+   "url": "https://github.com/vercel-labs/agent-skills.git",
+   "commit": "1a2c79d4e6c4a2283dc2c614b6538cbe1ed5ca62"
+  }
+ },
+ "skills": [
+  {
+   "name": "gsap-core",
+   "repo": "greensock__gsap-skills"
+  },
+  {
+   "name": "gsap-timeline",
+   "repo": "greensock__gsap-skills"
+  },
+  {
+   "name": "gsap-scrolltrigger",
+   "repo": "greensock__gsap-skills"
+  },
+  {
+   "name": "gsap-plugins",
+   "repo": "greensock__gsap-skills"
+  },
+  {
+   "name": "gsap-react",
+   "repo": "greensock__gsap-skills"
+  },
+  {
+   "name": "gsap-utils",
+   "repo": "greensock__gsap-skills"
+  },
+  {
+   "name": "gsap-performance",
+   "repo": "greensock__gsap-skills"
+  },
+  {
+   "name": "gsap-frameworks",
+   "repo": "greensock__gsap-skills"
+  },
+  {
+   "name": "r3f-best-practices",
+   "repo": "emalorenzo__three-agent-skills"
+  },
+  {
+   "name": "three-best-practices",
+   "repo": "emalorenzo__three-agent-skills"
+  },
+  {
+   "name": "threejs-materials",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-postprocessing",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-accessibility",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-debugging",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-particles",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-r3f",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-assets",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-lighting",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-shaders",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-scene",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-web",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-animation",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-deployment",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-performance",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-interaction",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-product-viewer",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-geometry",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-webgpu",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-html",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "threejs-testing",
+   "repo": "cesartevisual__threejs-skills"
+  },
+  {
+   "name": "scaffold-3d-site",
+   "repo": "skinnye__3d-web-pack"
+  },
+  {
+   "name": "add-postprocessing",
+   "repo": "skinnye__3d-web-pack"
+  },
+  {
+   "name": "optimize-3d-assets",
+   "repo": "skinnye__3d-web-pack"
+  },
+  {
+   "name": "scroll-3d-scene",
+   "repo": "skinnye__3d-web-pack"
+  },
+  {
+   "name": "scroll-film",
+   "repo": "Moh4696__open-3d-skills"
+  },
+  {
+   "name": "exploded-view",
+   "repo": "Moh4696__open-3d-skills"
+  },
+  {
+   "name": "site-check",
+   "repo": "Moh4696__open-3d-skills"
+  },
+  {
+   "name": "frame-capture",
+   "repo": "Moh4696__open-3d-skills"
+  },
+  {
+   "name": "shader-art-coding",
+   "repo": "gokayfem__shader-skills"
+  },
+  {
+   "name": "scroll-craft",
+   "repo": "nateherkai__scroll-craft"
+  },
+  {
+   "name": "scrollytelling",
+   "repo": "ma68foysal__claude-scrollytelling-skill"
+  },
+  {
+   "name": "zero-jank-scroll",
+   "repo": "harshavarma02__zero-jank-scroll-agent-skill"
+  },
+  {
+   "name": "awwwards",
+   "repo": "juliobsz__skills"
+  },
+  {
+   "name": "jury",
+   "repo": "juliobsz__skills"
+  },
+  {
+   "name": "auteur",
+   "repo": "agiwhitelist__auteur"
+  },
+  {
+   "name": "cinematic-ui",
+   "repo": "akseolabs-seo__cinematic-ui"
+  },
+  {
+   "name": "form-and-force",
+   "repo": "erenthedeveloper0__form-and-force"
+  },
+  {
+   "name": "direction",
+   "repo": "alanvaa06__award-craft"
+  },
+  {
+   "name": "elevate",
+   "repo": "alanvaa06__award-craft"
+  },
+  {
+   "name": "verify",
+   "repo": "alanvaa06__award-craft"
+  },
+  {
+   "name": "animate",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "animation-vocabulary",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "review-animations",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "animation-performance",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "emil-design-eng",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "apple-design",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "break-ui",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "improve-animations",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "find-animation-opportunities",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "remove-animations",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "prototype",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "pick-ui-library",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "mobile-native",
+   "repo": "emilkowalski__skill"
+  },
+  {
+   "name": "color-expert",
+   "repo": "meodai__skill.color-expert"
+  },
+  {
+   "name": "dembrandt",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "modular-scale-typography",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "algorithmic-color-palette",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "brand-visual-language",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "motion-and-storytelling",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "micro-interactions",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "performance-and-web-vitals",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "semantic-html-and-seo",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "wcag-accessibility",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "responsive-paradigms",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "visual-emphasis-and-hierarchy",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "elevation-and-depth",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "sizing-units",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "loading-states-and-perceived-performance",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "form-design",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "information-architecture",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "color-mode-and-theme",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "nielsen-usability-heuristics",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "sticky-and-fixed-elements",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "repeated-component-alignment",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "layout-paradigms-and-consistency",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "button-states",
+   "repo": "dembrandt__dembrandt-skills"
+  },
+  {
+   "name": "laws-of-ux",
+   "repo": "keysjoao__laws-of-ux-skills"
+  },
+  {
+   "name": "laws-of-ux-review",
+   "repo": "keysjoao__laws-of-ux-skills"
+  },
+  {
+   "name": "laws-of-ux-checklist",
+   "repo": "keysjoao__laws-of-ux-skills"
+  },
+  {
+   "name": "lighthouse",
+   "repo": "nimajafari__lighthouse-skill"
+  },
+  {
+   "name": "web-design-guidelines",
+   "repo": "vercel-labs__agent-skills"
+  },
+  {
+   "name": "frontend-design",
+   "repo": "anthropics-skills"
+  },
+  {
+   "name": "webapp-testing",
+   "repo": "anthropics-skills"
+  },
+  {
+   "name": "canvas-design",
+   "repo": "anthropics-skills"
+  },
+  {
+   "name": "algorithmic-art",
+   "repo": "anthropics-skills"
+  },
+  {
+   "name": "cast",
+   "repo": "AThevon__genjutsu"
+  },
+  {
+   "name": "paint",
+   "repo": "AThevon__genjutsu"
+  },
+  {
+   "name": "bunshin",
+   "repo": "AThevon__genjutsu"
+  },
+  {
+   "name": "vercel-react-best-practices",
+   "repo": "vercel-labs__agent-skills"
+  },
+  {
+   "name": "vercel-composition-patterns",
+   "repo": "vercel-labs__agent-skills"
+  },
+  {
+   "name": "vercel-react-view-transitions",
+   "repo": "vercel-labs__agent-skills"
+  },
+  {
+   "name": "threejs-procedural-scene",
+   "repo": "Moh4696__open-3d-skills"
+  }
+ ]
+}
