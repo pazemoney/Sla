@@ -1,9 +1,9 @@
-# Perfil do Instagram: FLOW GROUP (@flowgroup.dev)
+# Perfil do Instagram: FLOW GROUP (@flowgroup.br)
 
 ## Configuração final
-- **@:** `@flowgroup.dev` ✅
+- **@:** `@flowgroup.br` ✅
 - **Nome:** `Flow Group`
-- **Categoria:** Empresa de tecnologia da informação, botão WhatsApp ativo
+- **Categoria:** Empresa de tecnologia da informação (exibir no perfil), botão WhatsApp ativo
 - **Foto:** logo Flow com `</>` (versão do Gustavo)
 - **Destaques:** só quando tiver serviços entregues pra mostrar
 - **Bio (139 caracteres, sem emojis):**
