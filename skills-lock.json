@@ -110,6 +110,12 @@
       "skillPath": "korean-humanizer/SKILL.md",
       "computedHash": "4ebf7af60d0e633e5e7e7a7af3942c0ee8c281767157edd234021a4cf4e709bf"
     },
+    "liquid-glass-design": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/liquid-glass-design/SKILL.md",
+      "computedHash": "bbfb0a30ce18048f07072183d844b005ca729f27784096455ea7f8add25b92d3"
+    },
     "media-use": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
