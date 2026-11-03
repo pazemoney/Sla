@@ -182,6 +182,12 @@
       "skillPath": ".agents/skills/motion-doctrine/SKILL.md",
       "computedHash": "28d51d95e6bd0c808961cd6ced29e11a09f10f7711133ff86e9eb10f45c30ee2"
     },
+    "onetake": {
+      "source": "feitangyuan/onetake",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "89f8c40adaaa72bfddc753488f74e43e2ca10b206c8f404f0d1e3c13b0fbce7c"
+    },
     "orbit-card": {
       "source": "heygen-com/hyperframes",
       "sourceType": "github",
