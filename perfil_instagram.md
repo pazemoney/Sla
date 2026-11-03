@@ -1,25 +1,52 @@
-# Perfil do Instagram: FLOW GROUP (criação de sites)
+# Perfil do Instagram: FLOW GROUP (@flowgroup.dev)
 
-> **Decisão:** marca **Flow Group** (sem aparecer). Logo Flow com `</>` no lugar do anjinho.
-
-## Resumo
-- **@:** `@flow.group` (alternativas: `@flowgroup.dev`, `@flow.sites`, `@flowgroup.br`)
-- **Nome:** `Flow Group | Criação de Sites`
-- **Categoria:** Web Designer, botão WhatsApp ativo
-- **Foto:** `foto_perfil_flow.png`
-- **Bio:**
+## Configuração final
+- **@:** `@flowgroup.dev` ✅
+- **Nome (máx. 30, o Instagram busca por ele):** `Flow Group | Sites e Apps`
+  - alternativas: `Flow Group • Sites, Apps, Bots` · `Flow Group | Tecnologia`
+- **Categoria:** Empresa de tecnologia da informação (ou "Software"), botão WhatsApp ativo
+- **Foto:** logo Flow com `</>` (versão do Gustavo)
+- **Bio (139 caracteres):**
 ```
-💻 Sites que fazem sua empresa vender
-🔎 Apareça no Google
-💬 Cliente direto no seu WhatsApp
+💻 Sites, sistemas e aplicativos
+🤖 Bots de WhatsApp e Discord
+🎬 Vídeos, logos e design
+⚡ Envolve código? A Flow faz.
 👇 Peça seu orçamento
 ```
-- **Destaques:** Sites · Clientes · Como funciona · Orçamento · Sobre · Dúvidas (capas no estilo Flow)
+- **Bio alternativa (foco em vender):**
+```
+🚀 Tecnologia que faz sua empresa vender
+💻 Sites • Sistemas • Apps
+🤖 Bots WhatsApp/Discord
+🎬 Vídeos • Logos • Design
+👇 Orçamento no WhatsApp
+```
+- **Link:** `https://wa.me/55SEUNUMERO?text=Oi!%20Vi%20o%20perfil%20da%20Flow%20e%20quero%20um%20or%C3%A7amento`
+- **Destaques:** Sites · Apps · Bots · Design · Vídeos · Orçamento · Dúvidas
 
-> Dica de confiança: não diga que é uma equipe grande se não for. "Flow Group" como nome de marca é ok;
-> no "Sobre", conte quem atende (pode ser só o primeiro nome, sem foto).
+## Serviços (pra usar no destaque "Dúvidas" e nas conversas)
+- Sites, landing pages e lojas virtuais
+- Sistemas (painéis, agendamento, controle de estoque, etc.)
+- Aplicativos Android (.apk)
+- iPhone: prefira **web app** (abre pelo Safari e fica na tela inicial). Instalar `.ipa` fora da App Store exige sideload e, com conta Apple grátis, expira em 7 dias. Publicar na App Store precisa de conta de desenvolvedor Apple (US$ 99/ano) e aprovação da Apple. Não prometa sem combinar isso.
+- Robôs de atendimento no WhatsApp e bots de Discord
+- Automações e integrações
+- Edição de vídeo, Reels, logos, banners e artes
+
+## Sobre usar IA (Claude Code)
+Não precisa colocar na bio. O cliente compra resultado. Se perguntarem, seja transparente: "uso ferramentas de IA pra entregar mais rápido, e eu reviso e testo tudo". Sempre teste o que entregar antes de mandar pro cliente.
+
+## Estratégia de conteúdo
+O perfil mostra tudo que a Flow faz, mas **cada vídeo vende uma coisa só** (um vídeo = uma dor). Ex.:
+1. "Seu concorrente está roubando seus clientes" → site
+2. "Você ainda responde cliente no WhatsApp na mão?" → robô de WhatsApp
+3. "Sua empresa tem logo de 2010?" → logo/design
+4. "Seu servidor de Discord tá morto?" → bot de Discord
+5. "Seu negócio precisa de um app?" → app/sistema
 
 ---
+
 
 # Perfil do Instagram: vender criação de sites
 
