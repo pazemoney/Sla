@@ -1,22 +1,35 @@
-# Reels: "Sua empresa não tem site?" (25s)
+# Reels — "Seu concorrente está roubando seus clientes" (~50s)
 
-## Roteiro (voz em off)
-| Tempo | Locução | Tela |
+Estrutura: **gancho → problema → agravamento → virada → solução → quebra de objeção → CTA → fechamento com urgência**.
+
+## Roteiro (locução)
+
+| Tempo | Fala | O que aparece na tela |
 |---|---|---|
-| 0-4s (GANCHO) | "Se você tem uma empresa e ainda não tem site... você está perdendo cliente todo dia." | Título gigante + erro 404 |
-| 4-8s | "Hoje, antes de comprar qualquer coisa, todo mundo pesquisa no Google." | Busca no Google |
-| 8-11s | "E se não acha você, vai direto pro seu concorrente." | Concorrente em destaque, "Sua empresa não aparece", cliente perdido |
-| 11-15s | "Com um site profissional, você aparece nas buscas, passa confiança, e vende até dormindo." | Celular com site + 3 benefícios |
-| 15-18s | "E não precisa ser caro, nem demorar meses." | CARO? DEMORADO? riscados, "Rápido e acessível" |
-| 18-25s (CTA) | "Quer um site pra sua empresa? Comenta SITE aqui embaixo, ou me chama no direct, que eu te mostro como." | Botão SITE pulsando |
+| 0–4s **GANCHO** | "Seu concorrente está roubando os seus clientes. E você nem percebeu." | Tag "🚨 ATENÇÃO, DONO DE EMPRESA", moedas de ouro 3D voando pro celular do concorrente, notificações "Novo cliente!" |
+| 4–10s **PROBLEMA** | "Agora mesmo, alguém está pesquisando no Google exatamente o que você vende. Mas quem aparece... é ele." | Celular gira 360°, busca sendo digitada, concorrente em 1º lugar destacado |
+| 10–15s | "Site bonito, cinco estrelas, botão de WhatsApp... venda fechada." | Chips 3D surgem a cada palavra + carimbo "VENDA FECHADA ✅" com moedas explodindo |
+| 15–22s **AGRAVAMENTO** | "E a sua empresa? Nem aparece. Hoje, quem não está na internet, não existe pro cliente." | Espaço vazio "Sua empresa", glitch vermelho, música para (fita parando), celular apaga e cai no escuro: "NÃO EXISTE" |
+| 22–27s **VIRADA** | "Mas calma. Eu sou desenvolvedor de sites, e eu vou resolver isso pra você." | Luz cresce no escuro → explosão + DROP da música: "PRAZER, EU SOU DESENVOLVEDOR DE SITES 💻", mundo neon 3D |
+| 27–38s **SOLUÇÃO** | "Eu crio um site profissional pra sua empresa, que aparece no Google, e manda o cliente direto pro seu WhatsApp. Vendendo vinte e quatro horas por dia. Até enquanto você dorme." | Celular volta girando e o site é construído na tela; "24H" com notificações de novos clientes |
+| 38–42s **OBJEÇÃO** | "Você não precisa entender nada de tecnologia. Eu cuido de tudo." | Checklist 3D marcando os itens |
+| 42–45s **CTA** | "Clica no link da minha bio e fala comigo agora." | Perfil na tela, botão "LINK DA BIO" brilhando, mão tocando |
+| 45–51s **FECHAMENTO** | "Porque o próximo cliente pode ser seu... ou dele." | "SEU 🫵" vs "OU DELE?" → tela final "LINK NA BIO 👆 · Desenvolvedor de Sites" |
 
-## Legenda do post
-Sua empresa ainda não tem site? Comenta SITE que eu te chamo no direct e te mostro como ter o seu.
+## Legenda do post (copiar e colar)
 
-#site #sitesprofissionais #empreendedorismo #marketingdigital #negociolocal #pequenasempresas #criacaodesites #vendasonline
+Se o seu cliente pesquisa e não te acha... ele compra de outro. 😬
 
-## Dicas pra viralizar
-- Poste entre 18h e 21h, ou 11h30-13h.
-- Fixe um comentário: "Comenta SITE que eu te respondo!" e responda rápido (comentário gera alcance).
-- Responda os comentários em vídeo (Reels) pra render mais conteúdo.
-- Troque o áudio por uma música em alta no Instagram (volume baixo) se quiser pegar o algoritmo de áudio.
+Eu crio sites profissionais pra empresas: aparecem no Google e levam o cliente direto pro seu WhatsApp.
+
+👉 Clica no link da bio e fala comigo.
+
+#criacaodesites #sitesprofissionais #empreendedorismo #marketingdigital #pequenasempresas #negociolocal #donodeempresa #vendasonline
+
+## Pra viralizar e vender
+- **Capa:** use o frame com "ATENÇÃO, DONO DE EMPRESA" ou "VENDA FECHADA ✅".
+- **Comentário fixado:** "Quer saber quanto fica o site da sua empresa? Link na bio 👆"
+- **Horário:** 11h30–13h ou 18h–21h. Responda todo comentário na primeira hora.
+- **Áudio em alta:** use a versão *sem música* e adicione uma música em alta do Instagram em volume baixo (10–15%).
+- **Variações:** troque "empresa" por um nicho ("Sua clínica…", "Seu restaurante…", "Sua loja…") e poste uma por dia. Vídeos de nicho convertem mais.
+- **Bio:** deixe o link apontando direto pro seu WhatsApp com mensagem pronta (ex.: wa.me/55SEUNUMERO?text=Quero%20um%20site).
