@@ -2,28 +2,27 @@
 
 ## Configuração final
 - **@:** `@flowgroup.dev` ✅
-- **Nome (máx. 30, o Instagram busca por ele):** `Flow Group | Sites e Apps`
-  - alternativas: `Flow Group • Sites, Apps, Bots` · `Flow Group | Tecnologia`
-- **Categoria:** Empresa de tecnologia da informação (ou "Software"), botão WhatsApp ativo
+- **Nome:** `Flow Group`
+- **Categoria:** Empresa de tecnologia da informação, botão WhatsApp ativo
 - **Foto:** logo Flow com `</>` (versão do Gustavo)
-- **Bio (139 caracteres):**
+- **Destaques:** só quando tiver serviços entregues pra mostrar
+- **Bio (139 caracteres, sem emojis):**
 ```
-💻 Sites, sistemas e aplicativos
-🤖 Bots de WhatsApp e Discord
-🎬 Vídeos, logos e design
-⚡ Envolve código? A Flow faz.
-👇 Peça seu orçamento
+Criação de sites, sistemas e aplicativos para empresas.
+Também fazemos bots, edição de vídeo e design.
+Peça seu orçamento pelo link abaixo.
 ```
-- **Bio alternativa (foco em vender):**
+- **Alternativas:**
 ```
-🚀 Tecnologia que faz sua empresa vender
-💻 Sites • Sistemas • Apps
-🤖 Bots WhatsApp/Discord
-🎬 Vídeos • Logos • Design
-👇 Orçamento no WhatsApp
+Criamos sites, sistemas e aplicativos para o seu negócio.
+Também fazemos bots, vídeos e design.
+Orçamento sem compromisso no link abaixo.
+```
+```
+Criamos sites, sistemas e aplicativos sob medida.
+Orçamento sem compromisso no link abaixo.
 ```
 - **Link:** `https://wa.me/55SEUNUMERO?text=Oi!%20Vi%20o%20perfil%20da%20Flow%20e%20quero%20um%20or%C3%A7amento`
-- **Destaques:** Sites · Apps · Bots · Design · Vídeos · Orçamento · Dúvidas
 
 ## Serviços (pra usar no destaque "Dúvidas" e nas conversas)
 - Sites, landing pages e lojas virtuais
