@@ -1,3 +1,26 @@
+# Perfil do Instagram: FLOW GROUP (criação de sites)
+
+> **Decisão:** marca **Flow Group** (sem aparecer). Logo Flow com `</>` no lugar do anjinho.
+
+## Resumo
+- **@:** `@flow.group` (alternativas: `@flowgroup.dev`, `@flow.sites`, `@flowgroup.br`)
+- **Nome:** `Flow Group | Criação de Sites`
+- **Categoria:** Web Designer, botão WhatsApp ativo
+- **Foto:** `foto_perfil_flow.png`
+- **Bio:**
+```
+💻 Sites que fazem sua empresa vender
+🔎 Apareça no Google
+💬 Cliente direto no seu WhatsApp
+👇 Peça seu orçamento
+```
+- **Destaques:** Sites · Clientes · Como funciona · Orçamento · Sobre · Dúvidas (capas no estilo Flow)
+
+> Dica de confiança: não diga que é uma equipe grande se não for. "Flow Group" como nome de marca é ok;
+> no "Sobre", conte quem atende (pode ser só o primeiro nome, sem foto).
+
+---
+
 # Perfil do Instagram: vender criação de sites
 
 ## 1. Nome de usuário (@)
